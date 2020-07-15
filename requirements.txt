@@ -1,0 +1,6 @@
+requests==2.22.0
+beautifulsoup4==4.8.1
+gensim==3.8.1
+nltk==3.4.5
+sklearn==0.21.3
+vaderSentiment==3.2.1
